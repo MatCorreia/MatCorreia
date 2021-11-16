@@ -1,4 +1,6 @@
-<h3> :woman: &nbsp;Sobre mim </h3>
+#Olá.
+
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://estacio.br/">Universidade Estácio de Sá</a>.
