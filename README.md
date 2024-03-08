@@ -16,6 +16,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![NextJS](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextjs)
 
 **Utilidades**
 
