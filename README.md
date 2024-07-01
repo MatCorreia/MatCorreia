@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas no <a href="https://estacio.br/">Universidade Estácio de Sá</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvedor Front-End Pleno na <a href="https://destitech.com.br/">Destitech</a>
+- 💼 &nbsp; Trabalhando como Desenvolvedor Front-End Pleno no <a href="https://iter.com.br/">Grupo ITER</a>
 - 🌱 &nbsp; Aprendendo mais sobre ReactJS e NextJS.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
